@@ -1,7 +1,7 @@
 [build]
     publish = "dist/yetto-explore"
 
-[[redirects]]
+    [[redirects]]
     from = "/*"
     to = "/index.html"
     status = 200
